@@ -1,0 +1,17 @@
+{
+    "name": "vikas/linkedin-import-applicants",
+    "require": {
+        "microsoft/microsoft-graph": "^1.73",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vikas\\LinkedinImportApplicants\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vikas"
+        }
+    ]
+}
